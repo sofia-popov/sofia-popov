@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sofia!
 
-<!--
-**sofia-popov/sofia-popov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at Case Western Reserve University pursuing a B.S. in Computer Science with secondary majors in Artificial Intelligence and Mathematics.
 
-Here are some ideas to get you started:
+I'm particularly interested in machine learning and AI, especially the mathematical foundations behind intelligent systems, AI-driven scientific research, and computer security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience includes computational research, machine learning, AI agents, and full-stack software development.
+
+### Areas of Interest
+- Machine Learning & Deep Learning
+- AI Agents & Intelligent Systems
+- Mathematics for AI/ML
+- AI for Scientific Discovery
+- Computer Security
+
+### Featured Projects
+
+**[Russian Political Prisoners Map](https://github.com/sofia-popov/russian-political-prisoners-map)** — Interactive web application using JavaScript, Leaflet, Node.js, and Express to visualize reported cases of political imprisonment geographically.
+
+*More projects coming soon.*

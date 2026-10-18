@@ -17,4 +17,4 @@ My experience includes computational research, machine learning, AI agents, and 
 
 **[Russian Political Prisoners Map](https://github.com/sofia-popov/russian-political-prisoners-map)** — Interactive web application using JavaScript, Leaflet, Node.js, and Express to visualize reported cases of political imprisonment geographically.
 
-*More projects coming soon.*
+**[Airbnb Price Classification — Machine Learning](https://github.com/sofia-popov/airbnb-price-classification-ml)** — Developed and compared logistic regression and feedforward neural network models to classify NYC Airbnb listings by price category. Used Python, Scikit-learn, and TensorFlow/Keras, achieving approximately 82.8% test accuracy and a 0.637 F1 score with the neural network.

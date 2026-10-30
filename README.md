@@ -6,15 +6,37 @@ I'm particularly interested in machine learning and AI, especially the mathemati
 
 My experience includes computational research, machine learning, AI agents, and full-stack software development.
 
-### Areas of Interest
+## Areas of Interest
+
 - Machine Learning & Deep Learning
 - AI Agents & Intelligent Systems
 - Mathematics for AI/ML
 - AI for Scientific Discovery
 - Computer Security
 
-### Featured Projects
+## Technical Skills
+
+**Programming:** Python, JavaScript, TypeScript, Java, MATLAB, SQL
+
+**Machine Learning & Data Science:** Scikit-learn, TensorFlow/Keras, Pandas, NumPy, Matplotlib
+
+**Web Development:** React, Django, Node.js, Express, HTML/CSS
+
+**Tools & Databases:** Git, GitHub, PostgreSQL, MySQL
+
+## Featured Projects
+
+**[CollaboCWRU](https://github.com/sofia-popov/CollaboCWRU)** — Full-stack student collaboration platform built with Django, React, TypeScript, and MySQL. Features user authentication, project management, collaboration requests, and automated testing. Developed as part of a university software engineering team project.
+
+**[Airbnb Price Classification — Machine Learning](https://github.com/sofia-popov/airbnb-price-classification-ml)** — Developed and compared logistic regression and feedforward neural network models to classify NYC Airbnb listings by price category. Used Python, Scikit-learn, and TensorFlow/Keras, achieving approximately 82.8% test accuracy and a 0.637 F1 score with the neural network.
 
 **[Russian Political Prisoners Map](https://github.com/sofia-popov/russian-political-prisoners-map)** — Interactive web application using JavaScript, Leaflet, Node.js, and Express to visualize reported cases of political imprisonment geographically.
 
-**[Airbnb Price Classification — Machine Learning](https://github.com/sofia-popov/airbnb-price-classification-ml)** — Developed and compared logistic regression and feedforward neural network models to classify NYC Airbnb listings by price category. Used Python, Scikit-learn, and TensorFlow/Keras, achieving approximately 82.8% test accuracy and a 0.637 F1 score with the neural network.
+## Research & Experience
+
+- **Computational Biology Research:** Applying statistical analysis, clustering, and machine learning methods to explore relationships between dietary patterns and metabolic health.
+- **AI & Software Engineering:** Experience working on collaborative software projects involving AI-assisted analysis, data processing, and full-stack application development.
+
+## Connect
+
+- **GitHub:** [sofia-popov](https://github.com/sofia-popov)

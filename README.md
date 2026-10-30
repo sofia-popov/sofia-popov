@@ -34,8 +34,9 @@ My experience includes computational research, machine learning, AI agents, and 
 
 ## Research & Experience
 
-- **Computational Biology Research:** Applying statistical analysis, clustering, and machine learning methods to explore relationships between dietary patterns and metabolic health.
-- **AI & Software Engineering:** Experience working on collaborative software projects involving AI-assisted analysis, data processing, and full-stack application development.
+- **Computational Biology & Drug Discovery:** Conducted structure-based molecular docking experiments using AutoDock Vina to evaluate antibiotic binding to the RE-CmeB protein. Worked with molecular structures, automated docking workflows, and binding affinity analysis to compare candidate compounds.
+
+- **AI & Software Engineering:** Experience developing machine learning models, exploring AI-agent workflows, and contributing to collaborative full-stack software projects.
 
 ## Connect
 

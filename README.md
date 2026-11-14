@@ -41,3 +41,8 @@ My experience includes computational research, machine learning, AI agents, and 
 ## Connect
 
 - **GitHub:** [sofia-popov](https://github.com/sofia-popov)
+
+
+### 📊 My GitHub Stats
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)

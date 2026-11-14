@@ -30,6 +30,8 @@ My experience includes computational research, machine learning, AI agents, and 
 
 **[Airbnb Price Classification — Machine Learning](https://github.com/sofia-popov/airbnb-price-classification-ml)** — Developed and compared logistic regression and feedforward neural network models to classify NYC Airbnb listings by price category. Used Python, Scikit-learn, and TensorFlow/Keras, achieving approximately 82.8% test accuracy and a 0.637 F1 score with the neural network.
 
+**[Email Spam Classification — Ensemble Machine Learning](https://github.com/sofia-popov/email-spam-classification)** — Developed a four-model ensemble combining Histogram-Based Gradient Boosting and Logistic Regression to classify emails as spam or legitimate. Used Python and Scikit-learn to evaluate preprocessing techniques, optimize hyperparameters, and compare classification algorithms, achieving a 0.9143 cross-validation ROC AUC and 50.78% true positive rate at a 1% false positive rate.
+
 **[Russian Political Prisoners Map](https://github.com/sofia-popov/russian-political-prisoners-map)** — Interactive web application using JavaScript, Leaflet, Node.js, and Express to visualize reported cases of political imprisonment geographically.
 
 ## Research & Experience
